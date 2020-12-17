@@ -1,0 +1,25 @@
+#navbar {
+    background-color: rgb(216, 224, 250);
+}
+
+#banner{
+    margin: 5px 0 20px 0;
+}
+
+#title{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic ;
+}
+
+.container p {
+    font-size: 20px;
+}
+
+.container li{
+    font-size: 20px;
+}
+
+.container h4 {
+    font-style: oblique;
+    font-weight: 600;
+}
